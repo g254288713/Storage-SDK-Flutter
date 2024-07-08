@@ -15,7 +15,7 @@ dependencies:
   shared_preferences: ^2.2.1
   dio_http_cache: any
   path: ^1.8.3
-  qiniu_flutter_sdk: any
+  qiniu_flutter_sdk: ^0.5.0 
   path_provider: ^2.1.1
 
 dev_dependencies:
